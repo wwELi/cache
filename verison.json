@@ -1,0 +1,11 @@
+{
+    "name": "cache-ww",
+    "version": "1.5.0",
+    "description": "",
+    "main": "index.js",
+    "keywords": [
+      "cache"
+    ],
+    "author": "ww",
+    "license": "ISC"
+  }
